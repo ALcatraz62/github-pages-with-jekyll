@@ -1,4 +1,4 @@
 - name: Home
-  link: alcatraz62.github.io/github-pages-with-jekyll/
+  link: ./
 - name: About
-  link: alcatraz62.github.io/github-pages-with-jekyll/about.html
+  link: ./about.html
