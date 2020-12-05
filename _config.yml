@@ -1,4 +1,5 @@
-url: https://alcatraz62.github.io/github-pages-with-jekyll/
+url: https://alcatraz62.github.io
+baseurl: github-pages-with-jekyll/
 theme: minima
 title: Jekyll Demo
 author: ALcatraz62
